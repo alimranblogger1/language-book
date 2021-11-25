@@ -22,7 +22,7 @@ export default function Dropdown(props) {
     >
       <div
         className="dropdown-button"
-        onClick={() => setOpen(true)}
+        onClick={() => setOpen(!open)}
       >
         {value ?? 'Select language:'}
       </div>
@@ -35,7 +35,7 @@ export default function Dropdown(props) {
               <div
                 key={i}
                 className="dropdown-item"
-                onClick={() => onChange(option)}
+                onClick={() => { onChange(option); setOpen(false); }}
               >
                 {option}
               </div>

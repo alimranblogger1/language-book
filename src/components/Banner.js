@@ -17,6 +17,7 @@ export default function Banner() {
           width: '100%',
           height: '80px',
           margin: '0 auto 0',
+          padding: '0 10px',
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
@@ -28,7 +29,7 @@ export default function Banner() {
         }
       }
     >
-      <h2>
+      <h2 style={{ fontSize: '20px' }}>
         Choose Languages:
       </h2>
       <Dropdown

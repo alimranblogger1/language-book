@@ -16,6 +16,7 @@ p {
 
 * {
   font-family: 'Merriweather', serif;
+  user-select: none;
 }
 
 .page-text-first {
