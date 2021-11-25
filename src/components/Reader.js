@@ -18,6 +18,7 @@ export default function Reader() {
   return (
     <Carousel
       showThumbs={false}
+      useKeyboardArrows
     >
       {bookData.map((page, i) => (
         <Page
