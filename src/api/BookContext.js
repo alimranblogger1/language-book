@@ -23,7 +23,7 @@ export default function BookProvider({ children }) {
 
   useEffect(() => {
     axios
-    .get('/data/book.json')
+    .get('./data/book.json')
     .then((res) => {
       setBookData(res.data);
     })
@@ -32,7 +32,7 @@ export default function BookProvider({ children }) {
 
   useEffect(() => {
     axios
-    .get(`/data/translations/${firstLanguage}.json`)
+    .get(`./data/translations/${firstLanguage}.json`)
     .then((res) => {
       setLanguageData(prev => ({ first: res.data, second: prev.second }) );
     })
@@ -41,7 +41,7 @@ export default function BookProvider({ children }) {
 
   useEffect(() => {
     axios
-    .get(`/data/translations/${secondLanguage}.json`)
+    .get(`./data/translations/${secondLanguage}.json`)
     .then((res) => {
       setLanguageData(prev => ({ first: prev.first, second: res.data }) );
     })
