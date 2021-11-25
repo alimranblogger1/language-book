@@ -43,8 +43,8 @@ export default function Page(props) {
     .then((res) => {
       setImageDim(
         {
-          width: res.path[0].naturalWidth,
-          height: res.path[0].naturalHeight
+          width: res.target.naturalWidth,
+          height: res.target.naturalHeight
         }
       )
     });

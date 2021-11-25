@@ -49,7 +49,6 @@ export default function BookProvider({ children }) {
   }, [secondLanguage]);
 
   function changeFirstLanguage(newLanguage) {
-    console.log(newLanguage);
     setFirstLanguage(newLanguage);
   }
 
