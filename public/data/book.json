@@ -4,6 +4,10 @@
     "image": "title.jpg"
   },
   {
+    "id": "credits",
+    "image": "credits.png"
+  },
+  {
     "id": "1",
     "image": "p1.jpg",
     "textDisplay": [

@@ -7,9 +7,34 @@ import React, {
 } from 'react';
 
 export const LANGUAGES = [
-  'English',
-  'Spanish',
-  "Danish"
+  "None",
+  ...[
+    'English',
+    'Spanish',
+    "Danish",
+    "Thai",
+    "Chinese",
+    "Tagalog",
+    "Urdu",
+    "Turkish",
+    "Punjabi",
+    "Santali",
+    "Vietnamese",
+    "Malay",
+    "Macedonian",
+    "Bangla",
+    "Croatian",
+    "Greek",
+    "Yoruba",
+    "Serbian (Latin)",
+    "Serbian (Cyrillic)",
+    "Tamil",
+    "Dutch",
+    "Montenegrin (Latin)",
+    "Montenegrin (Cyrillic)",
+    "Indonesian",
+    "Arabic"
+  ].sort()
 ]
 
 const bookContext = createContext([]);
@@ -17,7 +42,7 @@ const bookUpdateContext = createContext([]);
 
 export default function BookProvider({ children }) {
   const [firstLanguage, setFirstLanguage] = useState(LANGUAGES[0]);
-  const [secondLanguage, setSecondLanguage] = useState(LANGUAGES[1]);
+  const [secondLanguage, setSecondLanguage] = useState(LANGUAGES[0]);
   const [languageData, setLanguageData] = useState({ first: null, second: null });
   const [bookData, setBookData] = useState([]);
 

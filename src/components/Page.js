@@ -114,7 +114,7 @@ export default function Page(props) {
                 left: disp.pos[0] - disp.width / 2 + '%',
                 top: disp.pos[1] + '%',
                 color: disp.colour ?? 'black',
-                fontSize: computedDim.height / 1000 * (19 + i) + 'px',
+                fontSize: computedDim.height / 50 + 'px',
                 display: 'flex',
                 flexDirection: 'column',
                 justifyContent: 'center',

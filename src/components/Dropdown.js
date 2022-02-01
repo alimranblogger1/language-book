@@ -1,4 +1,5 @@
 import { useState, useRef } from "react";
+import Scrollbars from "react-custom-scrollbars-2";
 
 import { useClickOutside } from "../hooks/useClickOutside";
 
@@ -23,6 +24,9 @@ export default function Dropdown(props) {
       <div
         className="dropdown-button"
         onClick={() => setOpen(!open)}
+        style={{
+            textAlign: "center",
+        }}
       >
         {value ?? 'Select language:'}
       </div>
@@ -30,16 +34,22 @@ export default function Dropdown(props) {
         open && (
           <div
             className="dropdown-list"
+            style={{
+                height: "calc(100vh - 70px)",
+                overflowY: "auto"
+            }}
           >
-            {options.map((option, i) => (
-              <div
-                key={i}
-                className="dropdown-item"
-                onClick={() => { onChange(option); setOpen(false); }}
-              >
-                {option}
-              </div>
-            ))}
+            <Scrollbars>
+                {options.map((option, i) => (
+                <div
+                    key={i}
+                    className="dropdown-item"
+                    onClick={() => { onChange(option); setOpen(false); }}
+                >
+                    {option}
+                </div>
+                ))}
+            </Scrollbars>
           </div>
         )
       }
