@@ -34,7 +34,9 @@ export const LANGUAGES = [
     "Montenegrin (Cyrillic)",
     "Indonesian",
     "Arabic",
-    "Hindi"
+    "Hindi",
+    "Khmer",
+    "Burmese"
   ].sort()
 ];
 

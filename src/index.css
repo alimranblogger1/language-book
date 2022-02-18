@@ -28,6 +28,7 @@ p {
 .page-text-first {
   font-family: 'Merriweather', serif;
   font-weight: 400;
+  white-space: pre-line;
 }
 
 .page-text-second.translator-two {
@@ -42,6 +43,7 @@ p {
   font-family: 'Merriweather', serif;
   font-weight: 1700;
   font-style: italic;
+  white-space: pre-line;
 }
 
 .page-text-second.translator-one {

@@ -131,6 +131,7 @@ export default function Page(props) {
               style={
                 {
                   fontSize: computedDim.height / 45 * (disp.textScale ?? pageData.first.textScale ?? 1) + 'px',
+                  ...(!isNaN(title) ? pageData.first.textStyle ?? pageData.second.textStyle : {}),
                   ...disp.style,
                 }
               }
