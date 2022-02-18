@@ -34,12 +34,12 @@ export default function Banner() {
       </h2>
       <Dropdown
         value={languageData.first?.languageName}
-        options={LANGUAGES.filter((lang) => lang !== languageData.first?.languageName)}
+        options={LANGUAGES.filter((lang) => lang !== languageData.first?.languageName && lang !== languageData.second?.languageName)}
         onChange={(val) => changeFirstLanguage(val)}
       />
       <Dropdown
         value={languageData.second?.languageName}
-        options={LANGUAGES.filter((lang) => lang !== languageData.second?.languageName)}
+        options={LANGUAGES.filter((lang) => lang !== languageData.first?.languageName && lang !== languageData.second?.languageName)}
         onChange={(val) => changeSecondLanguage(val)}
       />
     </div>
