@@ -2,6 +2,32 @@
   "languageName": "Croatian",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Croatian Translator:",
+      "Milica Vukadin.",
+      "Croatian Translator:",
+      "Milica Vukadin."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "Ova priča je posvećena svim izbjeglicama, potražiocima azila, i migrantima koji su napustili svoju domovinu u potrazi sa boljom budućnošću.",
+      "Posvećena je i svim onim ljudima koji prihvaćaju kulturološku različitost i pokušavaju učiniti ovaj svijet boljim mjestom za sve."
+    ],
     "1": [
       "Prošlog proljeća, grupa Croac-Croac žaba stigla je na Ribbit-Ribbit baru.",
       "Došli su iz daleke zemlje, preko planina i još dalje."

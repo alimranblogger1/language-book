@@ -1,7 +1,34 @@
 {
   "languageName": "Arabic",
   "flag": "english.jpg",
+  "textScale": 1.25,
   "text": {
+    "credits-lang": [
+      "English Translator:",
+      "Iván Parra González.",
+      "English Translator:", 
+      "Iván Parra González."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "default",
+      "default"
+    ],
     "1": [
       "في الرَبيعِ الماضي، وَصَلَت مَجموعةٌ مِن ضَفادِع الكُرُوَكْ كُرُوَكْ إلى بُركَة الرِيبِتْ رِيبِتْ",
       "أَتَوْا مِنْ أَرضٍ بَعيدَةٍ، مِن الجِبالِ و ما بَعْدَها"

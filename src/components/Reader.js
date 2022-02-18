@@ -20,7 +20,7 @@ export default function Reader() {
       showThumbs={false}
       useKeyboardArrows
     >
-      {bookData.map((page, i) => (
+      {Object.entries(bookData).map(([title, page], i) => (
         <Page
           key={i}
           imageName={page.image}
@@ -28,14 +28,17 @@ export default function Reader() {
             languageData.first.text[page.id] ? 
             languageData.first.text[page.id].map((sentence, i) => (
               {
-                first: sentence,
-                second: languageData.second.text[page.id][i]
+                first: sentence ?? "",
+                second: languageData.second.text[page.id][i] ?? ""
               }
             ))
             : []
           }
           textDisplay={page.textDisplay}
-        />  
+          pageData={languageData}
+          title={page.id}
+          
+        />
       ))}
     </Carousel>
   )

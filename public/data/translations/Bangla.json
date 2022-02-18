@@ -2,6 +2,32 @@
   "languageName": "Bangla",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Bangla Translator:",
+      "Sami Chisty.",
+      "Bangla Translator:",
+      "Sami Chisty."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "এই গল্পটি সকল শরণার্থী, আশ্রয়-সন্ধানী এবং অভিবাসীদের প্রতি উৎসর্গিত যারা নিজেদের মাতৃভূমি ত্যাগ করেছেন একটি অপেক্ষাকৃত উজ্জ্বল ভবিষ্যতের প্রচেষ্টায়। ",
+      "এবং সেই সকল মানুষদের যারা সাংস্কৃতিক  বৈচিত্র্যকে আলিঙ্গন করেন ও এই পৃথিবীকে সকলের জন্য একটি উত্তম জায়গা বানাতে চেষ্টা করেন। "
+    ],
     "1": [
       "গত বসন্তে একদল ক্রোক-ক্রোক ব্যাঙ রিবিট-রিবিট পুকুরে এসে পৌঁছেছিল।",
       "তারা এসেছিল পাহাড়ের ওপারের অনেক দূরের এক দেশ থেকে। "

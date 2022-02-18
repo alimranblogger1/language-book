@@ -2,6 +2,32 @@
   "languageName": "Montenegrin (Latin)",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Montenegrin Translator:",
+      "Milica Vukadin.",
+      "Montenegrin Translator:",
+      "Milica Vukadin."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "Ova priča je posvećena svim izbjeglicama, potražiocima azila, i migrantima koji su napustili svoju domovinu u potrazi sa boljom budućnošću.",
+      "Posvećena je i svim onim ljudima koji prihvataju različite kulture i pokušavaju da načine ovaj svijet boljim mjestom za sve."
+    ],
     "1": [
       "Prošlog proljeća, grupa Kre-kre žaba stigla je na Ribit-Ribit baru.",
       "Došli su iz daleke zemlje, preko planina i još dalje."

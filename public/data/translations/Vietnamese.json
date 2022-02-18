@@ -2,6 +2,32 @@
   "languageName": "Vietnamese",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Vietnamese Translator:",
+      "Nguyen Thi Phuong Doan.",
+      "Vietnamese Translator:",
+      "Nguyen Thi Phuong Doan."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "default",
+      "default"
+    ],
     "1": [
       "Vào mùa xuân năm ấy một đàn ếch Croac-Croac Tìm đường và di cư Dừng chân hồ Ribbit Chọn nơi đây là nhà.",
       "Từ đồng bằng xa xôi, Từ núi cao rừng thẳm."

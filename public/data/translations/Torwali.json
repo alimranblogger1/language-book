@@ -2,6 +2,32 @@
   "languageName": "Torwali",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "",
+      ""
+    ],
     "1": [
       "آرخر بسن یم کرو ا ک کرو ا ک مناگا یس اے ٹل آپ ٹربیررٹ ریبیری یس رڈھأن ےک.",
       "ےسائ ھو وطناُچِید ، کھنا یس ایکأنا میکأن ےک."

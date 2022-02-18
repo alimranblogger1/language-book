@@ -2,6 +2,32 @@
   "languageName": "Thai",
   "flag": "thai.jpg",
   "text": {
+    "credits-lang": [
+      "Thai Translator:",
+      "Napak-on Sritrakarn.",
+      "Thai Translator:",
+      "Napak-on Sritrakarn."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "default",
+      "default"
+    ],
     "1": [
       "เมื่อฤดูใบไม้ผลิที่ผ่านมา กบ อ๊บ-อ๊บ ฝูงหนึ่ง ได้เดินทางมาถึงที่บ่อน้ำ The Ribbit-Ribbit Pond",
       "พวกเขาเดินทางมาจากแผ่นดินที่ห่างไกล ข้ามเทือกเขาอันไกลโพ้น"

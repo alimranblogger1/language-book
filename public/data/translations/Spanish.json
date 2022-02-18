@@ -2,6 +2,32 @@
   "languageName": "Spanish",
   "flag": "spanish.jpg",
   "text": {
+    "credits-lang": [
+      "Spanish Translator:",
+      "Iván Parra González.",
+      "Spanish Translator:", 
+      "Iván Parra González."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "default",
+      "default"
+    ],
     "1": [
       "La primavera anterior, un grupo de ranas Croac-Croac llegó al estanque Ribbit-Ribbit.",
       "Vinieron de una tierra muy lejana, más de allá de las montañas."

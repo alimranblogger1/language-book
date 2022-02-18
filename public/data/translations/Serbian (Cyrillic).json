@@ -2,6 +2,32 @@
   "languageName": "Serbian (Cyrillic)",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Serbian Translator:",
+      "Milica Vukadin.",
+      "Serbian Translator:",
+      "Milica Vukadin."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "Ова прича је посвећена свим избеглицама, потражиоцима азила, и мигрантима који су напустили своју домовину у потрази за бољом будућношћу.",
+      "Посвећена је и свим оним људима који прихватају различите културе и покушавају да начине овај свет бољим местом за све."
+    ],
     "1": [
       "Прошлог пролећа, група Кре-кре жаба стигла је на Рибит-рибит бару.",
       "Дошли су из далеке земље, преко планина и још даље."

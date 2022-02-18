@@ -3,6 +3,32 @@
   "flag": "english.jpg",
   "standard": "true",
   "text": {
+    "credits-lang": [
+      "Urdu Translator:",
+      "Hafiz Nauman Ahmed.",
+      "Urdu Translator:",
+      "Hafiz Nauman Ahmed."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "default",
+      "default"
+    ],
     "1": [
       "پچھلی بہار، کراک کراک مینڈکوں کا ایک گروہ",
       "بھی پرے کی زمین سے آئے تھے۔وہ سبھی بہت دور دراز علاقہ، پہاڑوں اور ان سے"

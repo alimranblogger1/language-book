@@ -2,6 +2,32 @@
   "languageName": "Malay",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Malay Translator:",
+      "Chew Shin Yi.",
+      "Malay Translator:",
+      "Chew Shin Yi."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "Kisah ini didedikasikan untuk semua pelarian, pencari suaka dan pendatang yang telah meninggalkan negara asal mereka untuk mengejar masa depan yang lebih cerah.",
+      "Dan kepada semua orang yang menerima kepelbagaian budaya serta cuba menjadikan dunia ini tempat yang lebih baik bagi semua."
+    ],
     "1": [
       "Pada musim bunga yang lalu, sekumpulan katak-katak Croac-Croak tiba di Kolam Ribbit-Ribbit.",
       "Mereka berasal dari tempat yang jauh, dari pergunungan dan jauh lagi."

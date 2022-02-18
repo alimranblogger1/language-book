@@ -2,6 +2,32 @@
   "languageName": "Santali",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "Noa golpo do sanam uḍạcal hoṛ, asraeko khojokʼkan ar eṭakʼ disom khon hecʼakan hoṛko lạgitʼ kana okoe do darakan mitʼṭen ạḍi napae jion lạgitʼ akoakʼ disạmko bạgi oṭo akawatʼ.",
+      "Onko sanamko lạgitʼ okoe do aema lekanakʼ ạri-cạliko jogao dohoyetʼkan ar jotoko lạgitʼ noa dhạrti do mitʼṭecʼ bhage jaega benao lạgitʼko kurumuṭukan."
+    ],
     "1": [
       "Calaoen hoelolo dinre mitʼ dol Krok Krok Roṭeko do Ribbit Ribbit pukhriteko seṭerlena.",
       "Onko do ạḍi sạṅgiń disạm khon, buru ar ona tayom khonko hecʼlena."

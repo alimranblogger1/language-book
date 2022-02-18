@@ -2,6 +2,32 @@
   "languageName": "Macedonian",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Macedonian Translator:",
+      "Nataliza Krsteva.",
+      "Macedonian Translator:",
+      "Nataliza Krsteva."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "Оваа приказна е за сите бегалци, азиланти, и мигранти кои ја напуштиле својата татковина во потрага по посветла иднина.",
+      "И за сите оние кои со отворени раце прифаќаат културни различности и се трудат да го направат светот да биде подобро место за сите."
+    ],
     "1": [
       "Минатата пролет, една група од Кре-Кре жаби пристигнаа во барата Рибит-Рибит.",
       "Тие дојдоа од далечни земји, подалеку и од планините."

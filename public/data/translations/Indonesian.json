@@ -2,6 +2,32 @@
   "languageName": "Indonesian",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Indonesian Translator:",
+      "Yusuf Al Arief.",
+      "Indonesian Translator:",
+      "Yusuf Al Arief."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "Kisah ini didedikasikan untuk semua pengungsi, pencari suaka, dan imigran yang telah meninggalkan negara asal mereka untuk mengejar masa depan yang lebih cerah.",
+      "dan kepada semua orang yang menerima keragaman budaya, dan mencoba menjadikan dunia ini tempat yang lebih baik bagi semua orang."
+    ],
     "1": [
       "Musim semi yang lalu, sekelompok katak Kroak-kroak tiba di Kolam Ribbit-Ribbit.",
       "Mereka datang dari negeri yang jauh, dari pegunungan dan sekitarnya."

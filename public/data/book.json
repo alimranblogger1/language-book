@@ -5,7 +5,133 @@
   },
   {
     "id": "credits",
-    "image": "credits.png"
+    "image": "credits-lang.jpg",
+    "textDisplay": [
+      {
+        "pos": [33, 28],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one translator keep"
+      },
+      {
+        "pos": [33, 32],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one keep"
+      },
+      {
+        "pos": [84, 35],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one translator keep"
+      },
+      {
+        "pos": [84, 39],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one keep"
+      },
+      {
+        "pos": [55, 55],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one translator keep"
+      },
+      {
+        "pos": [55, 59],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one"
+      }
+    ]
+  },
+  {
+    "id": "credits-lang",
+    "image": "credits-lang.jpg",
+    "textDisplay": [
+      {
+        "pos": [35, 28],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one translator"
+      },
+      {
+        "pos": [35, 32],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one"
+      },
+      {
+        "pos": [75, 40],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-two translator"
+      },
+      {
+        "pos": [75, 44],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-two"
+      }
+    ]
+  },
+  {
+    "id": "credits-team",
+    "image": "credits-lang.jpg",
+    "textDisplay": [
+      {
+        "pos": [33, 28],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one translator"
+      },
+      {
+        "pos": [33, 32],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one"
+      },
+      {
+        "pos": [84, 35],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one translator"
+      },
+      {
+        "pos": [84, 39],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one"
+      },
+      {
+        "pos": [55, 55],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one translator"
+      },
+      {
+        "pos": [55, 59],
+        "width": 40,
+        "textScale": 1.25,
+        "className": "translator-one"
+      }
+    ]
+  },
+  {
+    "id": "dedications",
+    "image": "dedications.jpg",
+    "textDisplay": [
+      {
+        "className": "dedication",
+        "pos": [29, 25],
+        "width": 30
+      },
+      {
+        "className": "dedication",
+        "pos": [70, 50],
+        "width": 30
+      }
+    ]
   },
   {
     "id": "1",
@@ -207,13 +333,5 @@
   {
     "id": "15",
     "image": "p15.jpg"
-  },
-  {
-    "id": "reflection",
-    "image": "reflection.png",
-    "textPos": [
-      [],
-      []
-    ]
   }
 ]

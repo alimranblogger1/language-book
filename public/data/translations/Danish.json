@@ -2,6 +2,32 @@
   "languageName": "Danish",
   "flag": "danish.jpg",
   "text": {
+    "credits-lang": [
+      "Danish Translator:",
+      "Bettina Buch.",
+      "Danish Translator:",
+      "Bettina Buch."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "default",
+      "default"
+    ],
     "1": [
       "Sidste forår kom en flok Kvæk-Kvæk-frøer til Ribbit-Ribbit-søen.",
       "De kom fra et land langt borte, på den anden side af bjergene."

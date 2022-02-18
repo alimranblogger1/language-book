@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;1,700&display=swap');
 
+@font-face {
+  font-family: 'LeagueSpartan';
+  font-weight: bold;
+  src: url('./fonts/LeagueSpartan-Bold.otf') format("opentype");
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -24,8 +30,37 @@ p {
   font-weight: 400;
 }
 
+.page-text-second.translator-two {
+  font-style: normal;
+}
+
+.page-text-first.translator-two {
+  display: none;
+}
+
 .page-text-second {
   font-family: 'Merriweather', serif;
   font-weight: 1700;
   font-style: italic;
+}
+
+.page-text-second.translator-one {
+  display: none;
+}
+
+.translator-one, .translator-two {
+  text-align: left;
+  font-family: 'LeagueSpartan', sans-serif !important;
+}
+
+.translator {
+  color: orange
+}
+
+.dedication {
+  transform: scale(1.3);
+  color:rgb(18, 100, 18);
+  text-align: left;
+  font-style: italic;
+  margin-bottom: 10%;
 }

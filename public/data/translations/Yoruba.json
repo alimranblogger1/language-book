@@ -2,6 +2,32 @@
   "languageName": "Yoruba",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Yoruba Translator:",
+      "Joseph Osoba.",
+      "Yoruba Translator:",
+      "Joseph Osoba."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "default",
+      "default"
+    ],
     "1": [
       "Ki igba ojo ti o koja o to bere, akojo awon akere olohun kiro kiro kan de si Odo Ribiti Ribiti.",
       "Won wa lati ile ti o jina, ti o la awon oke nla ja, ti o koja won si iwaju."

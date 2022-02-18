@@ -2,6 +2,32 @@
   "languageName": "English",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "English Translator:",
+      "Iván Parra González.",
+      "English Translator:", 
+      "Iván Parra González."
+    ],
+    "credits": [
+      "Author:",
+      "Iván Parra González.",
+      "Editor:",
+      "Ahmar Mahboob.",
+      "Illustrator:",
+      "Garin Adi Sasongko."
+    ],
+    "credits-team": [
+      "Project Supervisor:", 
+      "Sami Chisty.",
+      "Project Coordinator:",
+      "Ahmar Mahboob.",
+      "Software Developer:",
+      "Mitchell Needham."
+    ],
+    "dedications": [
+      "This story is dedicated to all refugees, asylum-seekers, and migrants who have left their home countries in pursuit of a brighter future.",
+      "And to those people who embrace cultural diversity and try to make of this world a better place for everyone."
+    ],
     "1": [
       "Last spring, a group of Croac-Croac frogs arrived at The Ribbit-Ribbit Pond.",
       "They came from a farway land, from the mountains and beyond."

@@ -2,6 +2,32 @@
   "languageName": "Chinese",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Chinese Translator:",
+      "Barry Chen.",
+      "Chinese Translator:",
+      "Barry Chen."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "谨以此故事献给所有为了追寻绚烂的未来而离开曾经祖国的流亡者,避难者和移民们.",
+      "以及所有拥抱多元社会,努力让世界变得更好的人们."
+    ],
     "1": [
       "去年春天,一群“嘎嘎嘎嘎”青蛙来到了“呱呱呱呱”池塘.",
       "他们来自千山万水外的遥远国度."

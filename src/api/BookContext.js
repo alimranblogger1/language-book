@@ -33,9 +33,12 @@ export const LANGUAGES = [
     "Montenegrin (Latin)",
     "Montenegrin (Cyrillic)",
     "Indonesian",
-    "Arabic"
+    "Arabic",
+    "Hindi"
   ].sort()
-]
+];
+
+const DEFAULT_LANGUAGE = "English";
 
 const bookContext = createContext([]);
 const bookUpdateContext = createContext([]);
@@ -43,6 +46,7 @@ const bookUpdateContext = createContext([]);
 export default function BookProvider({ children }) {
   const [firstLanguage, setFirstLanguage] = useState(LANGUAGES[0]);
   const [secondLanguage, setSecondLanguage] = useState(LANGUAGES[0]);
+  const [defaultLanguage, setDefaultLanguage] = useState(null);
   const [languageData, setLanguageData] = useState({ first: null, second: null });
   const [bookData, setBookData] = useState([]);
 
@@ -73,6 +77,15 @@ export default function BookProvider({ children }) {
     .catch((err) => console.log(err));
   }, [secondLanguage]);
 
+  useEffect(() => {
+    axios
+    .get(`./data/translations/${DEFAULT_LANGUAGE}.json`)
+    .then((res) => {
+      setDefaultLanguage(res.data);
+    })
+    .catch((err) => console.log(err));
+  }, []);
+
   function changeFirstLanguage(newLanguage) {
     setFirstLanguage(newLanguage);
   }
@@ -83,7 +96,7 @@ export default function BookProvider({ children }) {
 
   return (
     <bookUpdateContext.Provider value={{ changeFirstLanguage, changeSecondLanguage }}>
-      <bookContext.Provider value={{ bookData, languageData }}>
+      <bookContext.Provider value={{ bookData, languageData, defaultLanguage }}>
         {children}
       </bookContext.Provider>
     </bookUpdateContext.Provider>
@@ -91,8 +104,8 @@ export default function BookProvider({ children }) {
 }
 
 export function useBook() {
-  const { bookData, languageData } = useContext(bookContext);
-  return { bookData, languageData };
+  const { bookData, languageData, defaultLanguage } = useContext(bookContext);
+  return { bookData, languageData, defaultLanguage };
 }
 
 export function useBookUpdate() {

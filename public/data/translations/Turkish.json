@@ -2,6 +2,32 @@
   "languageName": "Turkish",
   "flag": "english.jpg",
   "text": {
+    "credits-lang": [
+      "Turkish Translator:",
+      "Hüseyin Emre Naslı.",
+      "Turkish Translator:",
+      "Hüseyin Emre Naslı."
+    ],
+    "credits": [
+      "default",
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "credits-team": [
+      "default", 
+      "default",
+      "default",
+      "default",
+      "default",
+      "default"
+    ],
+    "dedications": [
+      "Bu hikaye daha parlak bir gelecek için anayurdunu terk edip giden tüm göçmenlere, sığınmacılara ve mültecilere adanmıştır.",
+      "Ayrıca farklı kültürel farklılıkları kucaklayıp bu dünyayı daha iyi bir yer yapan herkese."
+    ],
     "1": [
       "Geçen bahar bir grup Vırak-Vırak kurbağaları Ribbit-Ribbit göletine geldiler.",
       "Onlar dağların ötesinden, çok çok uzaktan gelmişlerdi."
