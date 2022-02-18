@@ -44,8 +44,8 @@ const bookContext = createContext([]);
 const bookUpdateContext = createContext([]);
 
 export default function BookProvider({ children }) {
-  const [firstLanguage, setFirstLanguage] = useState(LANGUAGES[0]);
-  const [secondLanguage, setSecondLanguage] = useState(LANGUAGES[0]);
+  const [firstLanguage, setFirstLanguage] = useState(LANGUAGES[Math.floor(Math.random() * (LANGUAGES.length - 1)/2) + 1]);
+  const [secondLanguage, setSecondLanguage] = useState(LANGUAGES[LANGUAGES.length - Math.floor(Math.random() * (LANGUAGES.length - 1)/2)]);
   const [defaultLanguage, setDefaultLanguage] = useState(null);
   const [languageData, setLanguageData] = useState({ first: null, second: null });
   const [bookData, setBookData] = useState([]);

@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'LeagueSpartan';
-  font-weight: bold;
+  font-weight: normal !important;
   src: url('./fonts/LeagueSpartan-Bold.otf') format("opentype");
 }
 
@@ -54,7 +54,7 @@ p {
 }
 
 .translator {
-  color: orange
+  color: orange;
 }
 
 .dedication {

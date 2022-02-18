@@ -158,6 +158,5 @@ export default function Page(props) {
 }
 
 function isDuplicate(text, defaultText, i) {
-  console.log(text[i].first, text[i].second, defaultText[i]);
   return (text[i].first === text[i].second && text[i].first === "default") || (text[i].second === defaultText[i] && text[i].first === "default") || (text[i].first === defaultText[i] && text[i].second === "default");
 }
