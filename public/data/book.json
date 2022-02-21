@@ -1,5 +1,9 @@
 [
   {
+    "id": "title",
+    "image": "title.jpg"
+  },
+  {
     "id": "credits",
     "image": "credits-lang.jpg",
     "textDisplay": [
