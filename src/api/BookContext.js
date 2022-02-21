@@ -36,7 +36,8 @@ export const LANGUAGES = [
     "Arabic",
     "Hindi",
     "Khmer",
-    "Burmese"
+    "Burmese",
+    "Sindhi"
   ].sort()
 ];
 
