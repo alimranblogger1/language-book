@@ -2,27 +2,21 @@
   "languageName": "Select Language",
   "flag": "english.jpg",
   "text": {
-    "credits-lang": [
-      "",
-      "",
-      "",
-      ""
-    ],
     "credits": [
       "default",
       "default",
       "default",
       "default",
       "default",
-      "default"
-    ],
-    "credits-team": [
-      "default", 
       "default",
       "default",
       "default",
       "default",
-      "default"
+      "default",
+      "",
+      "",
+      "",
+      ""
     ],
     "dedications": [
       "",
